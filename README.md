@@ -5,7 +5,6 @@ Sources:
 
 ```
 https://medium.com/@kishansingh.x/spring-cloud-config-server-with-jdbc-backend-a8a629846115
-
 ```
 
 ```
