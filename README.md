@@ -11,6 +11,9 @@ https://medium.com/@kishansingh.x/spring-cloud-config-server-with-jdbc-backend-a
 https://github.com/TechPrimers/docker-mysql-spring-boot-example
 ```
 
+```
+https://docs.docker.com/samples/library/mariadb/
+```
 
 https://spring.io/projects/spring-cloud-config#samples
 
