@@ -1,4 +1,4 @@
-# SpringCloud-Client-Server
+### SpringCloud-Client-Server
 
 Sources:
 
@@ -8,7 +8,7 @@ https://github.com/TechPrimers/docker-mysql-spring-boot-example
 
 https://dzone.com/articles/spring-cloud-config-server-for-the-impatient
 
-
+-------------------------------------------------------------------
 
 
 https://docs.docker.com/samples/library/mariadb/
