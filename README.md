@@ -1,3 +1,13 @@
+```
+docker build . -t server-mariadb
+docker build . -t client-mariadb
+```
+
+```
+docker run -it server-mariadb bash;
+docker run -it client-mariadb bash;
+```
+
 ### SpringCloud-Client-Server
 
 Sources:
