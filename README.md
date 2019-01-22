@@ -16,8 +16,8 @@ docker build . -t configserver
 ```
 
 ``` 
-docker run -it configclient
-docker run -it configserver
+docker run -it -p 8080:8080 configclient
+docker run -it -p 8888:8888 configserver
 ```
 ```
 docker run -it server-mariadb bash
