@@ -15,6 +15,9 @@ docker build . -t configclient
 docker build . -t configserver
 ```
 
+``` 
+docker run -it configclient
+docker run -it configserver
 ```
 docker run -it server-mariadb bash
 docker run -it client-mariadb bash
