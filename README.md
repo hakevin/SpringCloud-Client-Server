@@ -33,6 +33,8 @@ https://github.com/rashidi/jdbc-env-repo-sample
 
 https://dzone.com/articles/spring-cloud-config-server-for-the-impatient
 
+https://dzone.com/articles/creating-a-springboot-configuration-server-using-d
+
 -------------------------------------------------------------------
 
 
