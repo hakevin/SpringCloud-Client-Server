@@ -19,10 +19,7 @@ docker build . -t configserver
 docker run -it -p 8080:8080 configclient
 docker run -it -p 8888:8888 configserver
 ```
-```
-docker run -it server-mariadb bash
-docker run -it client-mariadb bash
-```
+
 
 ### SpringCloud-Client-Server
 
