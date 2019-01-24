@@ -9,18 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 public class ConfigClientApplication {
-//	
-//	@RestController
-//	@RefreshScope
-//	public class MessageController {
-//	@Value("${message:Hello default}")
-//	private String message;
-//	@RequestMapping("/message")
-//	String message() {
-//	return message;
-//	}
-//	}
-//	
+
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConfigClientApplication.class, args);

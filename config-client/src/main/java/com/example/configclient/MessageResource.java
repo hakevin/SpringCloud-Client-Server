@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class MessageResource {
 
-    @Value("${message: Default Hello}")
+    @Value("${message: Go to (http://localhost:8080/rest/message) to see if the server works. /n if this appears, the client works but the server is not refreshing.}")
     private String message;
 
     @GetMapping("/message")
