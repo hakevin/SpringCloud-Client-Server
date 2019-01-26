@@ -21,6 +21,9 @@ docker run -it -p 8888:8888 configserver
 docker run -it -p 8080:8080 configclient
 
 ```
+
+mysql -u root -p
+
 Run SQL command in the shell to create the employee database. Spring does not make it automatically for us. 
 
 Should test this with Docker Monday. 
@@ -55,7 +58,5 @@ https://hub.docker.com/r/hyness/spring-cloud-config-server/dockerfile
 
 ---------------------------
 
-Monday:
 
-https://www.youtube.com/watch?v=WXG6lbz1rbQ
 
