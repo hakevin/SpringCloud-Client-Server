@@ -24,7 +24,7 @@ docker run -it -p 8080:8080 configclient
 
 mysql -u root -p
 
-Run SQL command in the shell to create the employee database. Spring does not make it automatically for us. 
+Run SQL command in "schema-mariadb.sql" to the shell to create the employee database. Spring does not make it automatically for us. 
 
 Should test this with Docker Monday. 
 
