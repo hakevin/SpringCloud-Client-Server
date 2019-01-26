@@ -40,6 +40,7 @@ docker search mariadb
 ```
 ```
 docker run --name some-mariadb -e MYSQL_ROOT_PASSWORD=abc123 -d mariadb:10.4
+docker run --name some-mariadb -e MYSQL_ALLOW_EMPTY_PASSWORD -d mariadb:10.4
    ```
    ```
    docker exec -it some-mariadb bash
