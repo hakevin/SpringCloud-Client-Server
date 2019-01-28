@@ -31,6 +31,13 @@ Should test this with Docker Monday.
 ### SpringCloud-Client-Server
 
 Sources:
+Tuesday:
+
+https://o7planning.org/en/11727/understanding-spring-cloud-config-client-with-example
+
+https://o7planning.org/en/11723/understanding-spring-cloud-config-server-with-example
+
+------------------------------------------------------------
 
 https://medium.com/@kishansingh.x/spring-cloud-config-server-with-jdbc-backend-a8a629846115
 
