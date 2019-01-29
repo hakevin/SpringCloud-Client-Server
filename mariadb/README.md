@@ -39,9 +39,7 @@ This repository contains **Dockerfile** of [MariaDB](https://mariadb.org/) for [
 docker search mariadb
 ```
 ```
-docker run --name some-mariadb -e MYSQL_ROOT_PASSWORD=aaaaaa -d mariadb:10.4
-docker run --name some-mariadb -e MYSQL_ROOT_PASSWORD=111111 -d mariadb:10.4
-
+docker run --name some-mariadb -e MYSQL_ROOT_PASSWORD=abc123 -d mariadb:10.4
    ```
    ```
    docker exec -it some-mariadb bash
