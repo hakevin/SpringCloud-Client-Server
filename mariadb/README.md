@@ -45,5 +45,5 @@ docker run --name some-mariadb -e MYSQL_ROOT_PASSWORD=abc123 -d mariadb:10.4
    docker exec -it some-mariadb bash
    ```
    ```
-   docker exec -it some-mariadb mysql -uroot -p
+   docker exec -it some-mariadb mysql -u root -p
 ```
