@@ -28,6 +28,10 @@ Run SQL command in "schema-mariadb.sql" to the shell to create the employee data
 
 Should test this with Docker Monday. 
 
+### Wednesday
+
+https://vaadin.com/blog/building-a-web-ui-for-mysql-databases-in-plain-java-
+
 ### SpringCloud-Client-Server
 
 Sources:
@@ -36,6 +40,7 @@ Properties table
 
 https://medium.com/@nani2ratna/spring-cloud-config-server-with-jdbc-55de8f7ec86d
 
+https://github.com/alejandro-du/mysql-jdbc-vaadin
 
 
 ------------------------------------------------------------
