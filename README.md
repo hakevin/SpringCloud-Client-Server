@@ -11,14 +11,14 @@ COPY --from=BUILDCONFIGSERVER /usr/src/myapp/target/*.jar /maven/
 CMD java $JAVA_OPTS -jar maven/*.jar
 ```
 ```
-docker build . -t configserver
-docker build . -t configclient
+docker build . -t config-server
+docker build . -t config-client
 
 ```
 
 ``` 
-docker run -it -p 8888:8888 configserver
-docker run -it -p 8080:8080 configclient
+docker run -it -p 8888:8888 config-server
+docker run -it -p 8080:8080 config-client
 
 ```
 
