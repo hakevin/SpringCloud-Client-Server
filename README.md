@@ -31,11 +31,12 @@ Should test this with Docker Monday.
 ### SpringCloud-Client-Server
 
 Sources:
-Tuesday:
 
-https://o7planning.org/en/11727/understanding-spring-cloud-config-client-with-example
+Properties table
 
-https://o7planning.org/en/11723/understanding-spring-cloud-config-server-with-example
+https://medium.com/@nani2ratna/spring-cloud-config-server-with-jdbc-55de8f7ec86d
+
+
 
 ------------------------------------------------------------
 
@@ -52,6 +53,10 @@ https://github.com/rashidi/jdbc-env-repo-sample
 https://dzone.com/articles/spring-cloud-config-server-for-the-impatient
 
 https://dzone.com/articles/creating-a-springboot-configuration-server-using-d
+
+https://o7planning.org/en/11727/understanding-spring-cloud-config-client-with-example
+
+https://o7planning.org/en/11723/understanding-spring-cloud-config-server-with-example
 
 -------------------------------------------------------------------
 
