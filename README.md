@@ -32,6 +32,8 @@ Should test this with Docker Monday.
 
 https://vaadin.com/blog/building-a-web-ui-for-mysql-databases-in-plain-java-
 
+https://www.jianshu.com/p/2ef6a9259112
+
 ### SpringCloud-Client-Server
 
 Sources:
