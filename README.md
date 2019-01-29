@@ -18,7 +18,7 @@ docker build . -t config-client
 
 ``` 
 docker run -it -p 8888:8888 config-server
-docker run -it -p 8080:8080 config-client
+docker run -it -p 7777:7777 config-client
 
 ```
 
