@@ -55,6 +55,8 @@ https://github.com/TechPrimers/docker-mysql-spring-boot-example
 
 https://www.javainuse.com/spring/bootjdbc
 
+https://github.com/spansari/db-config-server
+
 https://github.com/rashidi/jdbc-env-repo-sample
 
 https://dzone.com/articles/spring-cloud-config-server-for-the-impatient
