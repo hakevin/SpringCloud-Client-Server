@@ -49,8 +49,6 @@ https://github.com/alejandro-du/mysql-jdbc-vaadin
 
 https://medium.com/@kishansingh.x/spring-cloud-config-server-with-jdbc-backend-a8a629846115
 
-https://medium.com/@nani2ratna/spring-cloud-config-server-with-jdbc-55de8f7ec86d
-
 https://github.com/TechPrimers/docker-mysql-spring-boot-example
 
 https://www.javainuse.com/spring/bootjdbc
