@@ -25,8 +25,9 @@ public class MainController {
 //    @Value("${spring.datasource.password}")
 //    private String password;
 	
+	//querying the key for the value
 	@Value("${datasource-driver-class-name}")
-    private String sql;
+    private String value;
  
 //    @Autowired
 //    private DataSource dataSource;
@@ -34,7 +35,7 @@ public class MainController {
     @RequestMapping("/showConfig")
     @ResponseBody
     public String showConfig() {
-    	String configInfo = "sql value pair " + sql;
+    	String configInfo = "The sql key-value pair: " + value;
     	
     	
 //        String configInfo =  "<br/>spring.datasource.driver-class-name=" + driverClassName //
