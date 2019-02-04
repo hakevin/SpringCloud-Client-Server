@@ -35,7 +35,7 @@ public class MainController {
 	@RequestMapping("/showconfig")
 	@ResponseBody
 	public String showConfig() {
-		String configInfo = "The sql key-value pair: " + value;
+		String configInfo = "Client : key = datasource-driver-class-name; value = " + value;
 
 //        String configInfo =  "<br/>spring.datasource.driver-class-name=" + driverClassName //
 //                + "<br/>spring.datasource.url=" + url //

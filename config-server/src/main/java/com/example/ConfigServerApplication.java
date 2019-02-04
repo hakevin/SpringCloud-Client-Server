@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 public class ConfigServerApplication {
 	
-	@Value("${message: Using key datasource-driver-class-name in the client.}")
+	@Value("${message: This is the server.}")
 	private String message;
 
 	@RequestMapping("/showconfig")
