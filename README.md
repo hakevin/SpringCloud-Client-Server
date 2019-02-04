@@ -19,9 +19,7 @@ Run SQL command in "schema-mariadb.sql" to the shell to create the employee data
 
 Should test this with Docker Monday. 
 
-### Wednesday
-
-https://vaadin.com/blog/building-a-web-ui-for-mysql-databases-in-plain-java-
+### Fundamentally
 
 https://www.jianshu.com/p/2ef6a9259112
 
@@ -29,24 +27,25 @@ https://www.jianshu.com/p/2ef6a9259112
 
 Sources:
 
-Properties table
+Properties table:
 
 https://medium.com/@nani2ratna/spring-cloud-config-server-with-jdbc-55de8f7ec86d
-
-https://github.com/alejandro-du/mysql-jdbc-vaadin
-
 
 ------------------------------------------------------------
 
 https://medium.com/@kishansingh.x/spring-cloud-config-server-with-jdbc-backend-a8a629846115
 
-https://github.com/TechPrimers/docker-mysql-spring-boot-example
+https://github.com/alejandro-du/mysql-jdbc-vaadin
 
-https://www.javainuse.com/spring/bootjdbc
+https://github.com/TechPrimers/docker-mysql-spring-boot-example
 
 https://github.com/spansari/db-config-server
 
 https://github.com/rashidi/jdbc-env-repo-sample
+
+https://www.javainuse.com/spring/bootjdbc
+
+https://spring.io/projects/spring-cloud-config#samples
 
 https://dzone.com/articles/spring-cloud-config-server-for-the-impatient
 
@@ -56,12 +55,15 @@ https://o7planning.org/en/11727/understanding-spring-cloud-config-client-with-ex
 
 https://o7planning.org/en/11723/understanding-spring-cloud-config-server-with-example
 
--------------------------------------------------------------------
+https://vaadin.com/blog/building-a-web-ui-for-mysql-databases-in-plain-java-
 
+
+-------------------------------------------------------------------
+ ### Docker resources:
+
+https://www.baeldung.com/dockerizing-spring-boot-application
 
 https://docs.docker.com/samples/library/mariadb/
-
-https://spring.io/projects/spring-cloud-config#samples
 
 https://hub.docker.com/r/hyness/spring-cloud-config-server/dockerfile
 
@@ -70,9 +72,7 @@ https://hub.docker.com/r/hyness/spring-cloud-config-server/dockerfile
 
 ---------------------------
 
-Docker Resource
 
-https://www.baeldung.com/dockerizing-spring-boot-application
 
 
 
