@@ -32,7 +32,7 @@ public class MainController {
 //    @Autowired
 //    private DataSource dataSource;
 
-	@RequestMapping("/showConfig")
+	@RequestMapping("/showconfig")
 	@ResponseBody
 	public String showConfig() {
 		String configInfo = "The sql key-value pair: " + value;
@@ -56,4 +56,5 @@ public class MainController {
 //        }
 //    }
 
+	
 }
