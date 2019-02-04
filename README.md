@@ -70,5 +70,9 @@ https://hub.docker.com/r/hyness/spring-cloud-config-server/dockerfile
 
 ---------------------------
 
+Docker Resource
+
+https://www.baeldung.com/dockerizing-spring-boot-application
+
 
 
