@@ -35,8 +35,6 @@ https://medium.com/@kishansingh.x/spring-cloud-config-server-with-jdbc-backend-a
 
 https://github.com/alejandro-du/mysql-jdbc-vaadin
 
-https://github.com/TechPrimers/docker-mysql-spring-boot-example
-
 https://github.com/spansari/db-config-server
 
 https://github.com/rashidi/jdbc-env-repo-sample
@@ -64,6 +62,8 @@ https://www.baeldung.com/dockerizing-spring-boot-application
 https://docs.docker.com/samples/library/mariadb/
 
 https://hub.docker.com/r/hyness/spring-cloud-config-server/dockerfile
+
+https://github.com/TechPrimers/docker-mysql-spring-boot-example
 
 
 
