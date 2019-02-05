@@ -23,11 +23,9 @@ Should test this with Docker Monday.
 
 https://www.jianshu.com/p/2ef6a9259112
 
-### SpringCloud-Client-Server
+### SpringCloud-Client-Server Properties table:
 
 Sources:
-
-Properties table:
 
 https://medium.com/@nani2ratna/spring-cloud-config-server-with-jdbc-55de8f7ec86d
 
