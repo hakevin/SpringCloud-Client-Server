@@ -35,8 +35,6 @@ https://medium.com/@kishansingh.x/spring-cloud-config-server-with-jdbc-backend-a
 
 https://github.com/alejandro-du/mysql-jdbc-vaadin
 
-https://github.com/spansari/db-config-server
-
 https://github.com/rashidi/jdbc-env-repo-sample
 
 https://www.javainuse.com/spring/bootjdbc
@@ -69,6 +67,10 @@ https://github.com/TechPrimers/docker-mysql-spring-boot-example
 
 
 ---------------------------
+
+### Vault/secrets
+
+https://github.com/spansari/db-config-server
 
 
 
