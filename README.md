@@ -70,7 +70,25 @@ https://github.com/TechPrimers/docker-mysql-spring-boot-example
 
 ### Vault/secrets
 
+https://medium.com/@Ankitthakur/spring-boot-spring-vault-e9e973a17036
+
+https://www.baeldung.com/spring-vault
+
+https://spring.io/blog/2016/06/24/managing-secrets-with-vault
+
 https://github.com/spansari/db-config-server
+
+https://github.com/spring-projects/spring-vault
+
+https://projects.spring.io/spring-vault/
+
+https://dzone.com/articles/managing-secrets-with-vault
+
+
+
+
+
+https://www.hashicorp.com/resources/how-to-use-vault-with-spring-applications
 
 
 
